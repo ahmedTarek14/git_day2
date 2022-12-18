@@ -1,0 +1,7 @@
+git push origin : BRANCH_NAME      remotely
+git branch -d BRANCH_NAME          locally
+
+
+Delete Tag
+git push origin --delete TAG_NAME    remotely
+git tag -d TAG_NAME                  locally
